@@ -1,0 +1,31 @@
+{
+  "name": "sports-betting-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Pinwin \u2014 decentralized sports betting on Azuro/Polygon",
+  "main": "src/index.js",
+  "bin": {
+    "pinwin-mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@azuro-org/dictionaries": "^3.0.28",
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "viem": "^2.0.0",
+    "zod": "^3.25.76"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "pinwin",
+    "azuro",
+    "sports-betting",
+    "polygon",
+    "defi"
+  ],
+  "license": "MIT"
+}
