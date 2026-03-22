@@ -8,7 +8,7 @@ Plug any AI agent into live sports odds and on-chain bet execution in minutes.
 
 | Channel | Package | Status |
 |---------|---------|--------|
-| [ClawHub](https://clawhub.ai) | `#sports-betting` | ✅ Live |
+| [ClawHub](https://clawhub.ai) | [`#sports-betting`](https://clawhub.ai/skinnynoizze/sports-betting) | ✅ Live |
 | [MCP](https://modelcontextprotocol.io) (Claude, GPT, etc.) | [`sports-betting-mcp`](https://www.npmjs.com/package/sports-betting-mcp) | ✅ Live |
 | OpenAI Function Calling | `openai/sports-betting-openai.json` | ✅ Live |
 | Custom GPT (GPT Store) | coming soon | 🔜 |
